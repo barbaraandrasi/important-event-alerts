@@ -4,11 +4,14 @@
 
 **Blocked by:** 03: Evaluate and simulate matching events
 
-**Status:** ready-for-agent
+**Status:** implemented
 
-- [ ] The event feed can be started and paused.
-- [ ] Automatic events use the same alert-evaluation path as manual events.
-- [ ] The user can select or simulate a news event.
-- [ ] The user can select or simulate a market event.
-- [ ] News and market events can be matched or rejected by supported conditions.
-- [ ] The simulator makes it possible to create both matching and non-matching examples.
+- [x] The event feed can be started and paused.
+- [x] Automatic events use the same alert-evaluation path as manual events.
+- [x] The user can select or simulate a news event.
+- [x] The user can select or simulate a market event.
+- [x] News and market events can be matched or rejected by supported conditions.
+- [x] The simulator makes it possible to create both matching and non-matching examples.
+
+The demo feed uses a visible three-second countdown and remains local to the
+Simulator screen by design.

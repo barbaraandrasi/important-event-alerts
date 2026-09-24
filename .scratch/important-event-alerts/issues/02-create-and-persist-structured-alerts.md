@@ -4,12 +4,12 @@
 
 **Blocked by:** 01: Demo authentication and application shell
 
-**Status:** ready-for-agent
+**Status:** implemented
 
-- [ ] The user can create an alert for a supported event topic.
-- [ ] The user can configure an earthquake threshold and region condition.
-- [ ] Multiple conditions are represented with AND semantics.
-- [ ] The user can select email and Slack destinations.
-- [ ] The user can edit, enable, disable, and delete an alert.
-- [ ] Alerts persist after a page refresh.
-- [ ] The alert list clearly shows topic, conditions, channels, and status.
+- [x] The user can create an alert for a supported event topic.
+- [x] The user can configure an earthquake threshold and region condition.
+- [x] Multiple conditions are represented with AND semantics.
+- [x] The user can select email and Slack destinations.
+- [x] The user can edit, enable, disable, and delete an alert.
+- [x] Alerts persist after a page refresh.
+- [x] The alert list clearly shows topic, conditions, channels, and status.

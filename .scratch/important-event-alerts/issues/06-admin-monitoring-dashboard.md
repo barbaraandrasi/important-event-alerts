@@ -4,11 +4,11 @@
 
 **Blocked by:** 04: Mock email and Slack deliveries; 05: Automatic monitoring and additional event types
 
-**Status:** ready-for-agent
+**Status:** implemented
 
-- [ ] The admin can view recent incoming events.
-- [ ] The admin can view active and disabled alerts.
-- [ ] The admin can view notification delivery records.
-- [ ] Delivery failures and their reasons are visible.
-- [ ] Event, alert, and delivery records can be related from the monitoring view.
-- [ ] The admin view does not expose user-only alert-creation controls as its primary workflow.
+- [x] The admin can view recent incoming events.
+- [x] The admin can view active and disabled alerts.
+- [x] The admin can view notification delivery records.
+- [x] Delivery failures and their reasons are visible.
+- [x] Event, alert, and delivery records can be related from the monitoring view.
+- [x] The admin view does not expose user-only alert-creation controls as its primary workflow.

@@ -4,11 +4,11 @@
 
 **Blocked by:** 02: Create and persist structured alerts
 
-**Status:** ready-for-agent
+**Status:** implemented
 
-- [ ] Persisted data includes a schema version.
-- [ ] Current valid alert and notification data loads after refresh.
-- [ ] A supported older data version migrates to the current structure.
-- [ ] Malformed or unsupported data is replaced with safe defaults.
-- [ ] Invalid persisted data never crashes the application.
-- [ ] Storage behavior is covered by focused validation checks.
+- [x] Persisted data includes a schema version.
+- [x] Current valid alert and notification data loads after refresh.
+- [x] A supported older data version migrates to the current structure.
+- [x] Malformed or unsupported data is replaced with safe defaults.
+- [x] Invalid persisted data never crashes the application.
+- [x] Storage behavior is covered by focused validation checks.

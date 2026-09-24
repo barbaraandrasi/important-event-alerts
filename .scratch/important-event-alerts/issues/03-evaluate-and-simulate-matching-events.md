@@ -4,12 +4,12 @@
 
 **Blocked by:** 02: Create and persist structured alerts
 
-**Status:** ready-for-agent
+**Status:** implemented
 
-- [ ] The user can manually create a simulated earthquake event.
-- [ ] A matching event triggers the intended enabled alert.
-- [ ] A non-matching event does not trigger the alert.
-- [ ] Threshold equality behaves correctly.
-- [ ] The result shows the matched alert and event details.
-- [ ] The result includes an importance level, score, and contributing reasons.
-- [ ] The same evaluation path is used for simulated events and alert matching.
+- [x] The user can manually create a simulated earthquake event.
+- [x] A matching event triggers the intended enabled alert.
+- [x] A non-matching event does not trigger the alert.
+- [x] Threshold equality behaves correctly.
+- [x] The result shows the matched alert and event details.
+- [x] The result includes an importance level, score, and contributing reasons.
+- [x] The same evaluation path is used for simulated events and alert matching.
